@@ -7,5 +7,10 @@ package com.shpowernode.test;
  */
 public class Persion {
 
+
     private String username;
+
+    private String w;
+
+
 }
