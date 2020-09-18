@@ -24,6 +24,9 @@ public class User {
     private String score;
 
 
+    private String address;
+
+
 
 
 
